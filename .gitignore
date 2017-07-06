@@ -1,0 +1,9 @@
+build
+CMakeFiles
+cmake_install.cmake
+*.workspace
+*.project
+.codelite
+*.a
+*.so
+TODO
